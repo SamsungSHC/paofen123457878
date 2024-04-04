@@ -1,0 +1,5 @@
+git clone https://gitee.com/songtianlun/byte-unixbench
+cd byte-unixbench
+cd UnixBench
+make
+./Run
