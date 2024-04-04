@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           chmod +x ./bench.sh
-          ./bench.sh
+          sudo bash ./bench.sh
